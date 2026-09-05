@@ -5,7 +5,7 @@
 
 The official **content-pool plugin** repository for DesktopWidget. This repo hosts reviewed community plugins that users can download as ZIP packages and import into the [DesktopWidget](https://github.com/Cherish95279/DesktopWidget) desktop widget to display custom information on the dial's 8 slots.
 
-> **Requires**: DesktopWidget v1.6.0 or later
+> **Requires**: DesktopWidget v1.5.5 or later
 
 <p align="center">
   <a href="README.md"><strong>🇺🇸 English</strong></a> |

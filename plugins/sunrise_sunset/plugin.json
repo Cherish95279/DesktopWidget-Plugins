@@ -4,7 +4,7 @@
     "description": "显示今日日出日落时间",
     "version": "1.0.0",
     "author": "DesktopWidget Test",
-    "min_app_version": "1.6.0",
+    "min_app_version": "1.5.5",
     "collect_interval": 3600,
     "supports_taskbar": true
 }

@@ -24,7 +24,7 @@
 
 ## 1. 前置要求
 
-- DesktopWidget v1.6.0 或更高版本（用于本地测试导入）
+- DesktopWidget v1.5.5 或更高版本（用于本地测试导入）
 - Python 3.12 + PyQt6 环境
 - 已阅读[插件开发指南](https://github.com/Cherish95279/DesktopWidget/blob/main/docs/PLUGIN_DEV_GUIDE_CN.md)
 - 了解 `ContentPlugin` 接口的四个方法：`collect` / `render_short` / `render_detail` / `render_taskbar`
@@ -63,7 +63,7 @@ plugins/
     "description": "一句话描述插件功能",
     "version": "1.0.0",
     "author": "你的名字或 GitHub 用户名",
-    "min_app_version": "1.6.0",
+    "min_app_version": "1.5.5",
     "collect_interval": 300,
     "supports_taskbar": true
 }
@@ -76,7 +76,7 @@ plugins/
 | `description` | str | ✅ | 简短描述（建议不超过 30 字） |
 | `version` | str | ✅ | 语义化版本号，如 `1.0.0` |
 | `author` | str | ✅ | 作者名 |
-| `min_app_version` | str | ❌ | 最低支持的 App 版本，建议填 `1.6.0` |
+| `min_app_version` | str | ❌ | 最低支持的 App 版本，建议填 `1.5.5` |
 | `collect_interval` | int | ❌ | 采集间隔（秒），最小 5，默认 300 |
 | `supports_taskbar` | bool | ❌ | 是否支持任务栏显示，默认 `false` |
 
@@ -228,7 +228,7 @@ git push origin add-<your_plugin_key>
 - [ ] 不访问插件功能无关的本地文件
 
 ## 测试结果
-- [ ] 已在 DesktopWidget v1.6.0 中导入测试通过
+- [ ] 已在 DesktopWidget v1.5.5 中导入测试通过
 - [ ] 表盘槽位显示正常
 - [ ] 悬停详情显示正常
 - [ ] 任务栏显示正常（如 supports_taskbar=true）
@@ -285,7 +285,7 @@ PR 提交
   "description": "描述",
   "version": "1.0.0",
   "author": "作者",
-  "min_app_version": "1.6.0",
+  "min_app_version": "1.5.5",
   "collect_interval": 300,
   "supports_taskbar": true,
   "verified": true,

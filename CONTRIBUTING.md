@@ -24,7 +24,7 @@ Thanks for your interest in contributing a plugin to DesktopWidget! This file ex
 
 ## 1. Prerequisites
 
-- DesktopWidget v1.6.0 or later (for local import testing)
+- DesktopWidget v1.5.5 or later (for local import testing)
 - Python 3.12 + PyQt6 environment
 - Read the [Plugin Development Guide](https://github.com/Cherish95279/DesktopWidget/blob/main/docs/PLUGIN_DEV_GUIDE_EN.md)
 - Understand the four `ContentPlugin` methods: `collect` / `render_short` / `render_detail` / `render_taskbar`
@@ -63,7 +63,7 @@ plugins/
     "description": "A one-line description of what the plugin does",
     "version": "1.0.0",
     "author": "Your name or GitHub username",
-    "min_app_version": "1.6.0",
+    "min_app_version": "1.5.5",
     "collect_interval": 300,
     "supports_taskbar": true
 }
@@ -76,7 +76,7 @@ plugins/
 | `description` | str | ✅ | Short description (≤ 30 words recommended) |
 | `version` | str | ✅ | Semantic version, e.g. `1.0.0` |
 | `author` | str | ✅ | Author name |
-| `min_app_version` | str | ❌ | Minimum app version; recommended `1.6.0` |
+| `min_app_version` | str | ❌ | Minimum app version; recommended `1.5.5` |
 | `collect_interval` | int | ❌ | Collection interval in seconds (min 5, default 300) |
 | `supports_taskbar` | bool | ❌ | Whether taskbar display is supported (default `false`) |
 
@@ -228,7 +228,7 @@ Briefly explain what information the plugin provides and its data source.
 - [ ] No access to local files unrelated to plugin function
 
 ## Test Results
-- [ ] Import tested successfully in DesktopWidget v1.6.0
+- [ ] Import tested successfully in DesktopWidget v1.5.5
 - [ ] Dial slot displays correctly
 - [ ] Hover detail displays correctly
 - [ ] Taskbar displays correctly (if supports_taskbar=true)
@@ -285,7 +285,7 @@ When adding or updating a plugin, also update `plugins/index.json`:
   "description": "Description",
   "version": "1.0.0",
   "author": "Author",
-  "min_app_version": "1.6.0",
+  "min_app_version": "1.5.5",
   "collect_interval": 300,
   "supports_taskbar": true,
   "verified": true,

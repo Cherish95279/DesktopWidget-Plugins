@@ -5,7 +5,7 @@
 
 DesktopWidget 官方**内容池插件**共享仓库。这里收录经过审核的社区插件，用户可以下载 ZIP 包导入到 [DesktopWidget](https://github.com/Cherish95279/DesktopWidget) 桌面小组件中，在表盘 8 个槽位上显示自定义信息。
 
-> **适用版本**：DesktopWidget v1.6.0 及以上
+> **适用版本**：DesktopWidget v1.5.5 及以上
 
 <p align="center">
   <a href="README.md"><strong>🇺🇸 English</strong></a> |
