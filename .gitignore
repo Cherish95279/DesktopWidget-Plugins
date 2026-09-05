@@ -14,3 +14,6 @@ desktop.ini
 
 # Temporary extraction artifacts
 *.tmp/
+
+# Release ZIPs (hosted on GitHub Releases)
+releases/
