@@ -1,0 +1,10 @@
+{
+    "key": "sunrise_sunset",
+    "name": "日出日落",
+    "description": "显示今日日出日落时间",
+    "version": "1.0.0",
+    "author": "DesktopWidget Test",
+    "min_app_version": "1.6.0",
+    "collect_interval": 3600,
+    "supports_taskbar": true
+}

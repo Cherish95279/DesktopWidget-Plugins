@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "updated": "2026-09-05",
+  "repo_url": "https://github.com/Cherish95279/DesktopWidget-Plugins",
+  "plugins": [
+    {
+      "key": "sunrise_sunset",
+      "name": "日出日落",
+      "description": "显示今日日出日落时间",
+      "version": "1.0.0",
+      "author": "DesktopWidget Test",
+      "min_app_version": "1.6.0",
+      "collect_interval": 3600,
+      "supports_taskbar": true,
+      "verified": true,
+      "download_url": "https://github.com/Cherish95279/DesktopWidget-Plugins/releases/download/sunrise_sunset_v1.0.0/sunrise_sunset_v1.0.0.zip",
+      "source_path": "plugins/sunrise_sunset"
+    },
+    {
+      "key": "battery_plus",
+      "name": "电池增强",
+      "description": "显示电池电量、充电状态与续航时间",
+      "version": "1.1.0",
+      "author": "DesktopWidget",
+      "min_app_version": "1.6.0",
+      "collect_interval": 60,
+      "supports_taskbar": true,
+      "verified": true,
+      "download_url": "https://github.com/Cherish95279/DesktopWidget-Plugins/releases/download/battery_plus_v1.1.0/battery_plus_v1.1.0.zip",
+      "source_path": "plugins/battery_plus"
+    }
+  ]
+}
