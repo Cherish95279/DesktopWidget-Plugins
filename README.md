@@ -18,8 +18,8 @@ The official **content-pool plugin** repository for DesktopWidget. This repo hos
 
 | Plugin | Version | Author | Description | Taskbar | Download |
 |--------|:-------:|--------|-------------|:-------:|----------|
-| 🌅 Sunrise & Sunset | 1.0.0 | DesktopWidget Test | Shows today's sunrise and sunset times | ✅ | [ZIP](releases/sunrise_sunset_v1.0.0.zip) |
-| 🔋 Battery Plus | 1.1.0 | DesktopWidget | Shows battery level, charging status and time remaining | ✅ | [ZIP](releases/battery_plus_v1.1.0.zip) |
+| 🌅 Sunrise & Sunset | 1.0.0 | DesktopWidget Test | Shows today's sunrise and sunset times | ✅ | [ZIP](https://github.com/Cherish95279/DesktopWidget-Plugins/releases/download/sunrise_sunset_v1.0.0/sunrise_sunset.zip) |
+| 🔋 Battery Plus | 1.1.0 | DesktopWidget | Shows battery level, charging status and time remaining | ✅ | [ZIP](https://github.com/Cherish95279/DesktopWidget-Plugins/releases/download/battery_plus_v1.1.0/battery_plus_v1.1.0.zip) |
 
 > Plugins marked ✅ have passed manual review and static security scanning.
 

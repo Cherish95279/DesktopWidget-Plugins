@@ -18,8 +18,8 @@ DesktopWidget 官方**内容池插件**共享仓库。这里收录经过审核�
 
 | 插件 | 版本 | 作者 | 说明 | 任务栏 | 下载 |
 |------|:----:|------|------|:------:|------|
-| 🌅 日出日落 | 1.0.0 | DesktopWidget Test | 显示今日日出日落时间 | ✅ | [ZIP](releases/sunrise_sunset_v1.0.0.zip) |
-| 🔋 电池增强 | 1.1.0 | DesktopWidget | 显示电池电量、充电状态与续航时间 | ✅ | [ZIP](releases/battery_plus_v1.1.0.zip) |
+| 🌅 日出日落 | 1.0.0 | DesktopWidget Test | 显示今日日出日落时间 | ✅ | [ZIP](https://github.com/Cherish95279/DesktopWidget-Plugins/releases/download/sunrise_sunset_v1.0.0/sunrise_sunset.zip) |
+| 🔋 电池增强 | 1.1.0 | DesktopWidget | 显示电池电量、充电状态与续航时间 | ✅ | [ZIP](https://github.com/Cherish95279/DesktopWidget-Plugins/releases/download/battery_plus_v1.1.0/battery_plus_v1.1.0.zip) |
 
 > 标记 ✅ 的插件已通过人工审核与静态安全扫描。
 
